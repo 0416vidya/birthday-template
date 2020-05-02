@@ -4,7 +4,7 @@ A happy birthday template implemented using HTML5, CSS and jQuery.
 
 **Technologies used:** HTML5, CSS and jQuery
 
-**URL:** https://0416vidya.github.io/birthday-template/
+**URL:** https://0416vidya.github.io/birthday-template/ (All you need is patience while viewing :wink:)
 
 ### Setup
 
